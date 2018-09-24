@@ -14,7 +14,7 @@ Globally installed package that provides the "vue" command in your terminal
 It provides the ability to quickly scaffold a new project via "vue create"
 - (Dont use this until you have a full understanding of how to build a vue project from scratch.)
 
-
+## Starting the Application
 1. npm install
 2. npm run build
 3. npm run server
