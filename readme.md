@@ -1,8 +1,8 @@
 # Hello Vue
 
 ## Vue.JS
-- URL - https://vuejs.org/
--documentation - https://vuejs.org/v2/guide
+URL - https://vuejs.org/  
+documentation - https://vuejs.org/v2/guide
 
 WARNING 
 Vue does not support IE8 and below, because it uses ECMAScript 5 features that are un-shimmable in IE8. However it supports all ECMAScript 5 compliant browsers
